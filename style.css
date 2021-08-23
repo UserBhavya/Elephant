@@ -1,0 +1,58 @@
+body
+{
+    width: 100%;;
+}
+*
+{
+    margin: 0%;
+}
+.container
+{
+    width: 920px;
+    margin: 0 auto;
+}
+.flex1,.flex2
+{
+    display: flex;
+    margin: 50px;
+    width:80%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+img
+{
+    width: 80%;
+    margin-left: 50px;
+}
+.back
+{
+    background-color: #312614;
+    color: white;
+    padding: 10px;
+}
+h1
+{
+   
+   text-align: center;
+}
+.span
+{
+    color:#a17329 ; 
+}
+.two
+{
+    margin:  010px;
+    width: 50%;
+}
+.one, .three , .five
+{
+    width: 25%;
+}
+.four
+{
+    width: 75%;
+}
+
+
+
+
